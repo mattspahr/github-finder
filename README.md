@@ -1,4 +1,5 @@
-# My First React App
+# Github-Finder
+### My First React App
 Github-finder was built while following along with React Front to Back, which is a Udemy course adminstered by Brad Traversy. This was the first project in the course and my first experience using React.
 
 It is a simple application that allows a user to search a github account and see it's information and repositories. It gets this data from the Github API. 
