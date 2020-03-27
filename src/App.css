@@ -317,6 +317,28 @@ input {
   margin-top: 0.3rem;
   color: #888;
 }
+.form-group {
+  margin: 1.2rem 0;
+}
+
+.form-group input {
+  margin: 0.2rem 0;
+}
+
+.form-container {
+  max-width: 750px;
+  margin: 2rem auto;
+  overflow: hidden;
+  padding: 0 2rem;
+}
+
+.form-container h1,
+h2,
+h3,
+label {
+  text-align: center;
+  color: var(--primary-color);
+}
 
 input[type='text'],
 input[type='email'],
