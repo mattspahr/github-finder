@@ -5,6 +5,7 @@ Github-finder was built while following along with React Front to Back, which is
 It is a simple application that allows a user to search a github account and see it's information and repositories. It gets this data from the Github API. 
 
 Try it here:  https://mattspahr-github-finder.netlify.com/
+
 Try it here (User Auth): http://jg-testreactapp.s3-website-us-east-1.amazonaws.com/login
 
 
